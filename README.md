@@ -3,12 +3,12 @@ Scripts that can be run to control the light veins in ground and first floor at 
 
 ## Resolume Arena
 
-Lights veins are controlled via Resolume Arena, a lightweigth software that displays video clips on our light veins installation.
+Lights veins are controlled via Resolume Arena, a lightweigth software that displays video clips on our light veins installation.  
 Resolume Arena provides an API to remotely control the lights, which is available **from cluster computers** at 42 Berlin.
 
 ## API links
 
-[API controller](http://10.11.250.225:8080/api/docs/example/)
+[API controller](http://10.11.250.225:8080/api/docs/example/)  
 [API documentation](http://10.11.250.225:8080/api/docs/rest/)
 
 ## Example

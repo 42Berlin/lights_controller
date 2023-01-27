@@ -17,9 +17,13 @@ Resolume Arena provides an API to remotely control the lights, which is availabl
 
 This simply selects the clip on the 2nd row and 5th column of the [controller](http://10.11.250.225:8080/api/docs/example/), and the lights turns green!
 
+![API controller](../media/lights_api_controller.png?raw=true)
+
 How it works? It uses the [API](http://10.11.250.225:8080/api/docs/rest/) clip .../connect POST request, as below:
 
 curl -X POST "http://10.11.250.225:8080/api/v1/composition/layers/2/clips/5/connect"
+
+![API documentation](../media/lights_api_documentation.png?raw=true)
 
 ## What's next
 

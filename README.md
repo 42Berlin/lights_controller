@@ -12,9 +12,9 @@ Lights veins are controlled via Resolume Arena, a lightweigth software that disp
 
 ## Example
 
-`python3 lights_clip_connect.py 2 5`
+`python3 lights_clip_connect.py`
 
-This simply selects the clip on the 2nd row and 5th column of the [controller](http://10.11.250.225:8080/api/docs/example/), and the lights turns green!
+This simply selects the clip on a row and column of the [controller](http://10.11.250.225:8080/api/docs/example/), and the lights turns green!
 
 ![API controller](../media/lights_api_controller.png?raw=true)
 
